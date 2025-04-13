@@ -134,8 +134,5 @@ The dataset contains 12 features for each movie or TV show:
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ankesh-aman/Netflix-Movies-And-TV-Shows-clustering.git
+Conclusion
+This project demonstrates proficiency in unsupervised machine learning, data preprocessing, and visualization while providing actionable insights for Netflix's content strategy. The clustering-based recommendation system enhances user experience, and the EDA uncovers trends that inform business decisions. The project is extensible, with potential for integration with external data and deployment as a web application.
